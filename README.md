@@ -13,7 +13,7 @@
   <a href="https://github.com/JohannOosthuizen/AVIT-Engineer/issues">
     <img src="https://img.shields.io/github/issues/johan-v-r/AVIT-Engineer?style=flat-square" alt="GitHub issues">
   </a>
-    <a href="https://www.linkedin.com/in/johan-van-rensburg-22882129/](https://www.linkedin.com/in/johannoosthuizen/">
+    <a href="https://www.linkedin.com/in/johannoosthuizen/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
