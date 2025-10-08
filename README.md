@@ -10,7 +10,7 @@
   <a href="contributions.md">
     <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square" alt="Contributions Welcome">
   </a>
-  <a href="https://github.com/johan-v-r/AVIT-Engineer/issues">
+  <a href="https://github.com/JohannOosthuizen/AVIT-Engineer/issues">
     <img src="https://img.shields.io/github/issues/johan-v-r/AVIT-Engineer?style=flat-square" alt="GitHub issues">
   </a>
     <a href="https://www.linkedin.com/in/johan-van-rensburg-22882129/](https://www.linkedin.com/in/johannoosthuizen/">
