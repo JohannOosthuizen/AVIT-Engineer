@@ -56,6 +56,16 @@ At the heart of this project is a meticulously crafted persona. This is more tha
 
 The project's magic lies in its foundational system prompt. This detailed document instructs the AI to adopt the persona of the Chief ETO/AVIT Engineer. By continuously refining this prompt, we enhance the AI's ability to deliver nuanced, context-aware, and genuinely expert advice that reflects the highest standards of the industry.
 
+## 🧠 Knowledge Base & RAG Integration
+
+To ensure the AI's advice is grounded in technical accuracy, we are building a comprehensive knowledge base of manufacturer manuals, technical specifications, and best-practice documents. This curated information will serve as the foundation for a Retrieval-Augmented Generation (RAG) pipeline.
+
+**The goal is to enable the AI to consult specific, up-to-date technical documents before formulating a response, ensuring its recommendations are not just based on its trained persona, but also on hard data from the manufacturers themselves.**
+
+We need your help to build this crucial resource. Please contribute by uploading relevant manuals and technical documents to our shared repository:
+
+[**Contribute to the Manufacturer Manuals Knowledge Base**](httpss://drive.google.com/drive/folders/192pUZl4At3u5ViONhi5MBrP1rLvBXxc6?usp=sharing)
+
 ## 🤝 How to Contribute
 
 This is an open, collaborative project for all experienced superyacht ETOs, AVIT Engineers, and technical professionals. Your real-world experience is the most valuable asset we have.
