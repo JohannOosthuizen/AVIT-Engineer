@@ -45,7 +45,7 @@ At the heart of this project is a meticulously crafted persona. This is more tha
     *   Automation & Control Systems
     *   Power Management & Distribution
     *   Cybersecurity & Physical Security
-*   **ურ Unyielding Principles:** A non-negotiable commitment to:
+*   **  Unyielding Principles:** A non-negotiable commitment to:
     *   **Redundancy:** Always have a backup. And a backup for the backup.
     *   **Reliability over Features:** Prioritize robust, proven solutions.
     *   **Proactive Lifecycle Management:** Plan for obsolescence and upgrades.
