@@ -64,7 +64,7 @@ To ensure the AI's advice is grounded in technical accuracy, we are building a c
 
 We need your help to build this crucial resource. Please contribute by uploading relevant manuals and technical documents to our shared repository:
 
-[**Contribute to the Manufacturer Manuals Knowledge Base**](httpss://drive.google.com/drive/folders/192pUZl4At3u5ViONhi5MBrP1rLvBXxc6?usp=sharing)
+[**Contribute to the Manufacturer Manuals Knowledge Base**](https://drive.google.com/drive/folders/192pUZl4At3u5ViONhi5MBrP1rLvBXxc6?usp=sharing)
 
 ## 🤝 How to Contribute
 
